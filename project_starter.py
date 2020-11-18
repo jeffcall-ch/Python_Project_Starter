@@ -9,7 +9,7 @@ import platform
 
 
 # input
-git_repo = "https://github.com/jeffcall-ch/excel_bom_compare"
+git_repo = "https://github.com/jeffcall-ch/pdf-drawing-differences"
 proxy = "--proxy https://148.64.11.164:8080"
 
 # variables
